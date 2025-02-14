@@ -1,4 +1,4 @@
-# Prodigy_ML_01
+# House Price Prediction with 79 independent variables 
 
 This is the first task of my Prodigy Infotech Internship,
 I made a linear regression model on house prediction dataset 
